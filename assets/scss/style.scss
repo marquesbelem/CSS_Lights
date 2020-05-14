@@ -1,0 +1,40 @@
+
+$border: 10px;
+$green: #32d362;
+$red: #b33220;
+$white: #ffffff;
+
+
+.btn {
+  border-radius: $border;
+  padding: 5px 15px;
+  border-style: none;
+  text-transform: uppercase;
+}
+
+.play { 
+  background-color: $green;
+  color: $red;
+}
+
+.stop {
+  background-color: $red;
+  color: $white;
+}
+
+input {
+  border-radius: $border;
+}
+
+.rope {
+  margin-top: 10px;
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.lamp {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 30px 20px;
+  border-radius: 50px;
+}

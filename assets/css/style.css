@@ -1,0 +1,27 @@
+.btn {
+  border-radius: 10px;
+  padding: 5px 15px;
+  border-style: none;
+  text-transform: uppercase; }
+
+.play {
+  background-color: #32d362;
+  color: #b33220; }
+
+.stop {
+  background-color: #b33220;
+  color: #ffffff; }
+
+input {
+  border-radius: 10px; }
+
+.rope {
+  margin-top: 10px;
+  display: flex;
+  background-color: DodgerBlue; }
+
+.lamp {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 30px 20px;
+  border-radius: 50px; }
